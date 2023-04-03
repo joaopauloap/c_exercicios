@@ -1,0 +1,1 @@
+gcc circle.c -lallegro-4.4.2-monolith-mt
